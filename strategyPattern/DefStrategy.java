@@ -1,5 +1,5 @@
 package strategyPattern;
 
-public interface DefStrat {
+public interface DefStrategy {
     public String def();
 }

@@ -1,5 +1,5 @@
 package strategyPattern;
 
-public interface AtkStrat {
+public interface AtkStrategy {
     public String atk();
 }
