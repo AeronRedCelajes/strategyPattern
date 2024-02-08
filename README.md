@@ -55,4 +55,4 @@ public class Character {
 ```
 
 ## Class Diagram
-
+![UML Strategy Pattern](https://github.com/AeronRedCelajes/strategyPattern/assets/142370807/9311d63a-9b5f-469f-92c8-a64b4d266ee6)
